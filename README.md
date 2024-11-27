@@ -1,4 +1,4 @@
-# 🚀 **Aplicación ETL Automatizada para Generación y Envío de Correos Electrónicos**
+# 🚀 **Aplicación ETL Automatizada para Generación y Envío de Correos Electrónicos con OpenAI**
 
 Esta aplicación automatizada realiza un proceso **ETL** para gestionar y procesar datos de manera eficiente desde un archivo CSV. Su objetivo principal es generar correos electrónicos personalizados con descripciones generadas por modelos de **OpenAI**, enviarlos automáticamente y registrar las operaciones en una base de datos **MySQL**.
 
